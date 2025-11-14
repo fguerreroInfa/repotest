@@ -1,0 +1,67 @@
+{
+  "objectInfo" : {
+    "id" : "8NgBOpYlxS8fWB4MEfJnen",
+    "name" : "tf_taskflow_hang_issue",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "sPsJGD4ARW8UBM7-gt-16195653-2025-11-12T14:52:17.294Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-11-14T17:38:53.531Z",
+  "objectRefs" : [ {
+    "id" : "eGXLc1SyZ6KbWvC3iM3Rg3",
+    "name" : "mct_m_Dummy_Field_Mapping_Reading",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01C6Z80Z0000000001DS"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Sarat/CDC AS400"
+  }, {
+    "id" : "io37DaXy7Y8cmIwcmk7V8e",
+    "name" : "Linux-VM-Sarat-New.informatica.com",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01C6Z82500000000001A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
